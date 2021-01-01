@@ -1,7 +1,5 @@
-# Amazon-Shopping-Robot-Framework
+# Amazon Shopping Automation Test Example With Robot Framework Using Selenium Library
 
-# Amazon shopping automation test example with Robot Framework using Selenium Library
+# Type Terminal : robot -d Results Tests/Amazon.robot
 
-# Type terminal : robot -d Results Tests/Amazon.robot
-
-![alt text](https://github.com/alisarmusa/Amazon-Shopping-Robot-Framework.git/Results/selenium-screenshot-3.png?raw=true)
+![alt text](https://github.com/alisarmusa/Amazon-Shopping-Robot-Framework.git/Results/selenium-screenshot-3.png)
