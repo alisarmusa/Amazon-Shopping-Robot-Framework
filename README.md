@@ -2,4 +2,4 @@
 
 # Type Terminal : robot -d Results Tests/Amazon.robot
 
-(https://github.com/alisarmusa/Amazon-Shopping-Robot-Framework.git/Results/selenium-screenshot-3.png)
+![alt text](https://github.com/alisarmusa/Amazon-Shopping-Robot-Framework/tree/main/Results/selenium-screenshot-3.png)
