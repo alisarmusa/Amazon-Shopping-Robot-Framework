@@ -15,3 +15,5 @@
 ![Ferrari 458](Results/selenium-screenshot-7.png)
 
 ![Ferrari 458](Results/selenium-screenshot-8.png)
+
+![Lamborgini Gallardo](Results/selenium-screenshot-1.png)
