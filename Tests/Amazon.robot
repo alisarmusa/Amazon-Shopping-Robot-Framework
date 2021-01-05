@@ -12,7 +12,7 @@ ${BROWSER} =    chrome
 ${START_URL} =    http://www.amazon.com
 ${SEARCH_TERM} =    Ferrari 458
 ${LOGIN_EMAIL} =    musa.alisar@gmail.com
-${LOGIN_PASSWORD} =    hacettepe_cs_2014
+${LOGIN_PASSWORD} =    hacettepe_cs_2015
 
 *** Test Cases ***
 Logged out user go to Amazon
